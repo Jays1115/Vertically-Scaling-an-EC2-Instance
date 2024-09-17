@@ -6,7 +6,7 @@
 # Vertically-Scaling-an-EC2-Instance
 
 <h2>Description</h2>
-Request: A school server that runs a course scheduling solution needs more memory. 
+Scenario: A school server that runs a course scheduling solution needs more memory. 
 <br><br>
 Solution: Vertically scale an EC2 instance from t3.micro to m4.large to provide better application performance by increasing the instance's CPU, memory, and network capabilities, allowing it to handle a higher load, execute more processes simultaneously, and improve overall responsiveness for resource-intensive tasks. This scaling approach ensures the application can meet growing user demand without downtime or significant configuration changes.
 
