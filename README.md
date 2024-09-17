@@ -1,0 +1,1 @@
+# Vertically-Scaling-an-EC2-Instance
